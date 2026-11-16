@@ -1,0 +1,19 @@
+# Java / Maven
+/target/
+/out/
+*.class
+
+# NetBeans / IDE local
+/nbproject/private/
+/nb-configuration.xml
+/.idea/
+*.iml
+/.vscode/
+
+# Archivos locales y secretos
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+Thumbs.db
